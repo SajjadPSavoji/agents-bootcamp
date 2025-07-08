@@ -6,9 +6,7 @@ If you like the course, **don't hesitate to ⭐ star this repository**. This hel
 
 The course is divided into 4 units. These will take you from **the basics of agents to a final assignment with a benchmark**.
 
-Sign up here (it's free) 👉 <a href="https://bit.ly/hf-learn-agents" target="_blank">https://bit.ly/hf-learn-agents</a>
-
-You can access the course here 👉 <a href="https://hf.co/learn/agents-course" target="_blank">https://hf.co/learn/agents-course</a>
+Sign up here 👉 <a href="https://maven.com/aggregate-intellect/llm-systems" target="_blank">https://maven.com/aggregate-intellect/llm-systems</a>
 
 | Unit    | Topic                                                                                                          | Description                                                                                                                            |
 |---------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
