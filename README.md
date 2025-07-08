@@ -8,8 +8,8 @@ The course is divided into 4 units. These will take you from **the basics of age
 
 Sign up here 👉 <a href="https://maven.com/aggregate-intellect/llm-systems" target="_blank">https://maven.com/aggregate-intellect/llm-systems</a>
 
-| Unit    | Topic                                                                                                          | Description                                                                                                                            |
-|---------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Unit    | Topic                                                                                                          | Description |
+|---------|----------------------------------------------------------------------------------------------------------------|-------------|
 | 1       | Welcome to the Course                              | Introduction to default project, GAIA and model playground. Usecase and benchmark identification. |
 | 2       | Your First Agent                                   | Definition of agents, LLMs, model family tree, and special tokens. |
 | 3       | Task Decomposition, Agent Design & Implementation  | Frameworks for AI agents, overview of `smolagents`, `LangGraph` and `LlamaIndex`. |
