@@ -29,7 +29,7 @@ Sign up here 👉 <a href="https://maven.com/aggregate-intellect/llm-systems" ta
 
 ## Contribution Guidelines
 
-If you want to contribute to this course, you're welcome to do so. Feel free to open an issue or join the discussion in the [Discord](https://discord.gg/UrrTSsSyjb). For specific contributions, here are some guidelines:
+If you want to contribute to this course, you're welcome to do so. Feel free to open an issue. For specific contributions, here are some guidelines:
 
 ### Small typo and grammar fixes
 
@@ -44,11 +44,11 @@ If you want to add a new unit, **please create an issue in the repository, descr
 To cite this repository in publications:
 
 ```bibtex
-@misc{agents-course,
-  author = {Burtenshaw, Ben and Thomas, Joffrey and Simonini, Thomas and Paniego, Sergio},
-  title = {The Hugging Face Agents Course},
+@misc{agents-bootcamp,
+  author = {Pakdamansavoji, Sajjad},
+  title = {Build Multi-Agent Applications - A Bootcam},
   year = {2025},
-  howpublished = {\url{https://github.com/huggingface/agents-course}},
+  howpublished = {\url{https://github.com/SajjadPSavoji/agents-bootcamp}},
   note = {GitHub repository},
 }
 ```
