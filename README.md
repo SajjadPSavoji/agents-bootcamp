@@ -10,7 +10,7 @@ Sign up here 👉 <a href="https://maven.com/aggregate-intellect/llm-systems" ta
 
 | Unit    | Topic                                                                                                          | Description                                                                                                                            |
 |---------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 0       | [Welcome to the Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)                      | Welcome, guidelines, necessary tools, and course overview.                                                                             |
+| 1       | Welcome to the Course                   | Introduction to default project, GAIA and model playground. |
 | 1       | [Introduction to Agents](https://huggingface.co/learn/agents-course/en/unit1/introduction)                     | Definition of agents, LLMs, model family tree, and special tokens.                                                                     |
 | 1 Bonus | [Fine-tuning an LLM for Function-calling](https://huggingface.co/learn/agents-course/bonus-unit1/introduction) | Learn how to fine-tune an LLM for Function-Calling                                                                                     |
 | 2       | [Frameworks for AI Agents](https://huggingface.co/learn/agents-course/unit2/introduction)                      | Overview of `smolagents`, `LangGraph` and `LlamaIndex`.                                                                                |
