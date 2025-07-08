@@ -10,17 +10,12 @@ Sign up here 👉 <a href="https://maven.com/aggregate-intellect/llm-systems" ta
 
 | Unit    | Topic                                                                                                          | Description                                                                                                                            |
 |---------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | Welcome to the Course                   | Introduction to default project, GAIA and model playground. |
-| 1       | [Introduction to Agents](https://huggingface.co/learn/agents-course/en/unit1/introduction)                     | Definition of agents, LLMs, model family tree, and special tokens.                                                                     |
-| 1 Bonus | [Fine-tuning an LLM for Function-calling](https://huggingface.co/learn/agents-course/bonus-unit1/introduction) | Learn how to fine-tune an LLM for Function-Calling                                                                                     |
-| 2       | [Frameworks for AI Agents](https://huggingface.co/learn/agents-course/unit2/introduction)                      | Overview of `smolagents`, `LangGraph` and `LlamaIndex`.                                                                                |
-| 2.1     | [The Smolagents Framework](https://huggingface.co/learn/agents-course/unit2/smolagents/introduction)           | Learn how to build effective agents using the `smolagents` library, a lightweight framework for creating capable AI agents.            |
-| 2.2     | [The LlamaIndex Framework](https://huggingface.co/learn/agents-course/unit2/llama-index/introduction)          | Learn how to build LLM-powered agents over your data using indexes and workflows using the `LlamaIndex` toolkit.                       |
-| 2.3     | [The LangGraph Framework](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction)             | Learn how to build production-ready applications using the `LangGraph` framework giving you control tools over the flow of your agent. |
-| 2 Bonus | [Observability and Evaluation](https://huggingface.co/learn/agents-course/bonus-unit2/introduction)            | Learn how to trace and evaluate your agents.                                                                                           |
-| 3       | [Use Case for Agentic RAG](https://huggingface.co/learn/agents-course/unit3/agentic-rag/introduction)          | Learn how to use Agentic RAG to help agents respond to different use cases using various frameworks.                                                                   |
-| 4       | [Final Project - Create, Test and Certify Your Agent](https://huggingface.co/learn/agents-course/unit4/introduction)          | Automated evaluation of agents and leaderboard with student results.                                                                   |
-| 3 Bonus | [Agents in Games with Pokemon](https://huggingface.co/learn/agents-course/bonus-unit3/introduction)            | Explore the exciting intersection of AI Agents and games.        |
+| 1       | Welcome to the Course                              | Introduction to default project, GAIA and model playground. Usecase and benchmark identification. |
+| 2       | Your First Agent                                   | Definition of agents, LLMs, model family tree, and special tokens. |
+| 3       | Task Decomposition, Agent Design & Implementation  | Frameworks for AI agents, overview of `smolagents`, `LangGraph` and `LlamaIndex`. |
+| 4       | Create, Test and Certify Your GAIA Agent           | Learn how to use Agentic RAG to help agents respond to GAIA benchmark. |
+| 5       | Observability and Evaluation                       | Learn how to trace and evaluate your agents. |
+| 6       | Deployment & UI/UX                                 | ??? .|
                                                                                    
 ## Prerequisites
 
