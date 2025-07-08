@@ -725,8 +725,6 @@ One of the main ways they do this is by using Tools, which extend an AI model's 
 
 # What are Tools?
 
-<img src="https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/unit1/whiteboard-check-2.jpg" alt="Unit 1 planning"/>
-
 One crucial aspect of AI Agents is their ability to take **actions**. As we saw, this happens through the use of **Tools**.
 
 In this section, we’ll learn what Tools are, how to design them effectively, and how to integrate them into your Agent via the System Message.
