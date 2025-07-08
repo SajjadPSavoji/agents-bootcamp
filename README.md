@@ -1,8 +1,6 @@
-# <a href="https://hf.co/learn/agents-course" target="_blank">The Hugging Face Agents Course</a>
+# <a href="https://maven.com/aggregate-intellect/llm-systems" target="_blank">Build Multi-Agent Applications - A Bootcamp</a>
 
-If you like the course, **don't hesitate to ⭐ star this repository**. This helps us to **make the course more visible 🤗**.
-
-<img src="https://huggingface.co/datasets/agents-course/course-images/resolve/main/en/communication/please_star.gif" alt="Star the repo" />
+If you like the course, **don't hesitate to ⭐ star this repository**. This helps us to **make the course more visible**.
 
 ## Content
 
