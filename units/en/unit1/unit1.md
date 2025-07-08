@@ -13,3 +13,32 @@
 | [Observations](9_observations.md) | Explanation of observations and append result to reflect. |
 | [Quizz](10_quizz.md) | Contains quizzes to test understanding of the concepts. |
 | [Simple Use Case](11_simple_use_case.md) | Provides a simple use case exercise using datetime and a Python function as a tool. |
+
+# Introduction to Agents
+
+Welcome to this first unit, where **you'll build a solid foundation in the fundamentals of AI Agents** including:
+
+- **Understanding Agents**  
+  - What is an Agent, and how does it work?  
+  - How do Agents make decisions using reasoning and planning?
+
+- **The Role of LLMs (Large Language Models) in Agents**  
+  - How LLMs serve as the “brain” behind an Agent.  
+  - How LLMs structure conversations via the Messages system.
+
+- **Tools and Actions**  
+  - How Agents use external tools to interact with the environment.  
+  - How to build and integrate tools for your Agent.
+
+- **The Agent Workflow:** 
+  - *Think* → *Act* → *Observe*.
+
+After exploring these topics, **you’ll build your first Agent** using `smolagents`! 
+
+Your Agent, named Alfred, will handle a simple task and demonstrate how to apply these concepts in practice. 
+
+You’ll even learn how to **publish your Agent on Hugging Face Spaces**, so you can share it with friends and colleagues.
+
+Finally, at the end of this Unit, you'll take a quiz.
+
+Ready? Let’s dive in! 🚀
